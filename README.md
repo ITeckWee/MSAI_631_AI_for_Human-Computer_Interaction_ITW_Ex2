@@ -1,1 +1,1 @@
-# MSAI_544_Healthcare_AI_ITW_Ex2
+# MSAI_631_AI_for__ITW_Ex2
